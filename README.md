@@ -17,7 +17,9 @@
 [<img title="Swagger" src="https://avatars.githubusercontent.com/u/7658037?s=40&v=4" />](https://github.com/peralva/)
 [<img title="Socket.IO" src="https://avatars.githubusercontent.com/u/10566080?s=40&v=4" />](https://github.com/peralva/)
 [<img title="Express" height="40" src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" />](https://github.com/peralva/)
-[<img title="" height="40" src="" />](https://github.com/peralva/)
+[<img title="React" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEjWPTpmnZfYL0IAoeeE870Ifk37IQ4jiIQ&s" />](https://github.com/peralva/)
+[<img title="Next.js" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" />](https://github.com/peralva/)
+[<img title="Arduino" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQW_PcmefMM8IO05osReJCfY9mD5hvBqtw&s" />](https://github.com/peralva/)
 
 <!--
 **peralva/peralva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
