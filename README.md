@@ -21,6 +21,11 @@
 [<img title="Next.js" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" />](https://github.com/peralva/)
 [<img title="Arduino" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQW_PcmefMM8IO05osReJCfY9mD5hvBqtw&s" />](https://github.com/peralva/)
 
+## Contacts
+[<img src="https://img.shields.io/badge/Hotmail-000?logo=Gmail" />](mailto:brunoperalva@hotmail.com)
+[<img src="https://img.shields.io/badge/Github-000?logo=Github" />](https://github.com/peralva/)
+[<img height="15" src="https://captadores.org.br/wp-content/uploads/2012/10/linkedin.png" />](https://www.linkedin.com/in/peralva/)
+
 <!--
 **peralva/peralva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
