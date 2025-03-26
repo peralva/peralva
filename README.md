@@ -22,7 +22,7 @@
 [<img title="Arduino" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQW_PcmefMM8IO05osReJCfY9mD5hvBqtw&s" />](https://www.arduino.cc/)
 
 ## Contacts
-[<img src="https://img.shields.io/badge/Hotmail-000?logo=Gmail" />](mailto:brunoperalva@hotmail.com)
+[<img src="https://img.shields.io/badge/brunoperalva@hotmail.com-000?logo=Gmail" />](mailto:brunoperalva@hotmail.com)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github" />](https://github.com/peralva/)
 [<img height="15" src="https://captadores.org.br/wp-content/uploads/2012/10/linkedin.png" />](https://www.linkedin.com/in/peralva/)
 
