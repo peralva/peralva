@@ -1,11 +1,11 @@
 ## Languages and Tools
-<a href="https://code.visualstudio.com/" target="_blank"><img title="Visual Studio Code" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a>
+[<img title="Visual Studio Code" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
 [<img title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/40px-Unofficial_JavaScript_logo_2.svg.png" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/40px-Typescript.svg.png" />](https://www.typescriptlang.org/)
 [<img title="AdvPL" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAW4UrQM5aEKWl3V-0wqS54PxbkqGNNHTDw&s" />](https://tdn.totvs.com/display/tec/AdvPL)
 [<img title="NPM" src="https://avatars.githubusercontent.com/u/6078720?s=40&v=4" />](https://www.npmjs.com/~peralva)
 [<img title="ESLint" src="https://avatars.githubusercontent.com/u/6019716?s=40&v=4" />](https://eslint.org/)
-[<img title="Prettier" height="40" src="https://avatars.githubusercontent.com/u/25822731?s=40&v=4" />](https://github.com/peralva/)
+[<img title="Prettier" height="40" src="https://avatars.githubusercontent.com/u/25822731?s=40&v=4" />](https://prettier.io/)
 [<img title="Node.js" src="https://avatars.githubusercontent.com/u/9950313?s=40&v=4" />](https://nodejs.org/)
 [<img title="Oracle" src="https://avatars.githubusercontent.com/u/4430336?s=40&v=4" />](https://www.oracle.com/database/)
 [<img title="MySQL" height="40" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" />](https://www.mysql.com/)
