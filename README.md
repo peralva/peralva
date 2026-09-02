@@ -1,42 +1,73 @@
-## Languages and Tools
-[<img title="Visual Studio Code" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
-[<img title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/40px-Unofficial_JavaScript_logo_2.svg.png" />](https://developer.mozilla.org/docs/Web/JavaScript)
-[<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/40px-Typescript.svg.png" />](https://www.typescriptlang.org/)
-[<img title="AdvPL" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAW4UrQM5aEKWl3V-0wqS54PxbkqGNNHTDw&s" />](https://tdn.totvs.com/display/tec/AdvPL)
-[<img title="NPM" src="https://avatars.githubusercontent.com/u/6078720?s=40&v=4" />](https://www.npmjs.com/~peralva)
-[<img title="ESLint" src="https://avatars.githubusercontent.com/u/6019716?s=40&v=4" />](https://eslint.org/)
-[<img title="Prettier" height="40" src="https://avatars.githubusercontent.com/u/25822731?s=40&v=4" />](https://prettier.io/)
-[<img title="Node.js" src="https://avatars.githubusercontent.com/u/9950313?s=40&v=4" />](https://nodejs.org/)
-[<img title="Oracle" src="https://avatars.githubusercontent.com/u/4430336?s=40&v=4" />](https://www.oracle.com/database/)
-[<img title="MySQL" height="40" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" />](https://www.mysql.com/)
-[<img title="PostgreSQL" height="40" src="https://www.postgresql.org/media/img/about/press/elephant.png" />](https://www.postgresql.org/)
-[<img title="Sequelize" src="https://avatars.githubusercontent.com/u/3591786?v=&s=40" />](https://sequelize.org/)
-[<img title="TypeORM" src="https://avatars.githubusercontent.com/u/20165699?s=40&v=4" />](https://typeorm.io/)
-[<img title="Zod" height="40" src="https://raw.githubusercontent.com/colinhacks/zod/refs/heads/main/logo.svg" />](https://zod.dev/)
-[<img title="Telegraf" src="https://avatars.githubusercontent.com/u/18504346?s=40&v=4" />](https://telegraf.js.org/)
-[<img title="Swagger" src="https://avatars.githubusercontent.com/u/7658037?s=40&v=4" />](https://swagger.io/)
-[<img title="Socket.IO" src="https://avatars.githubusercontent.com/u/10566080?s=40&v=4" />](https://socket.io/)
-[<img title="Express" height="40" src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" />](https://expressjs.com/)
-[<img title="React" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEjWPTpmnZfYL0IAoeeE870Ifk37IQ4jiIQ&s" />](https://react.dev/)
-[<img title="Next.js" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" />](https://nextjs.org/)
-[<img title="Arduino" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQW_PcmefMM8IO05osReJCfY9mD5hvBqtw&s" />](https://www.arduino.cc/)
+# Bruno Peralva
 
-## Contacts
-[<img src="https://img.shields.io/badge/brunoperalva@hotmail.com-000?logo=Gmail" />](mailto:brunoperalva@hotmail.com)
-[<img src="https://img.shields.io/badge/Github-000?logo=Github" />](https://github.com/peralva/)
-[<img height="15" src="https://captadores.org.br/wp-content/uploads/2012/10/linkedin.png" />](https://www.linkedin.com/in/peralva/)
+Desenvolvedor de software com experiência em back-end, front-end e integração de sistemas.
 
-<!--
-**peralva/peralva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contato
 
-Here are some ideas to get you started:
+[![Hotmail](https://img.shields.io/badge/brunoperalva@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunoperalva@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peralva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peralva)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java)
+[![AdvPL](https://img.shields.io/badge/AdvPL-004A99?style=for-the-badge)](https://tdn.totvs.com/display/tec/AdvPL)
+
+**IA**
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com)
+
+**Back-end**
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io)
+[![Telegraf](https://img.shields.io/badge/Telegraf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegraf.js.org)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+
+**Front-end**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+
+**Banco de Dados & ORM**
+
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/database)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org)
+[![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
+[![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)](https://jakarta.ee/specifications/persistence)
+
+**Ferramentas & Qualidade de Código**
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+**DevOps**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+
+**Hardware**
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
