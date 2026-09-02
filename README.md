@@ -1,23 +1,23 @@
 # Bruno Peralva
 
-Desenvolvedor de software com experiência em back-end, front-end e integração de sistemas.
+Software developer with experience in back-end, front-end, and systems integration.
 
-## 📫 Contato
+## 📫 Contact
 
 [![Hotmail](https://img.shields.io/badge/brunoperalva@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunoperalva@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peralva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peralva)
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
-**Linguagens**
+**Languages**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java)
 [![AdvPL](https://img.shields.io/badge/AdvPL-004A99?style=for-the-badge)](https://tdn.totvs.com/display/tec/AdvPL)
 
-**IA**
+**AI**
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com)
 
@@ -39,7 +39,7 @@ Desenvolvedor de software com experiência em back-end, front-end e integração
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
-**Banco de Dados & ORM**
+**Databases & ORM**
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/database)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
@@ -50,7 +50,7 @@ Desenvolvedor de software com experiência em back-end, front-end e integração
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
 [![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)](https://jakarta.ee/specifications/persistence)
 
-**Ferramentas & Qualidade de Código**
+**Tools & Code Quality**
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)](https://code.visualstudio.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
